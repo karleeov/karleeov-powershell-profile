@@ -1,9 +1,20 @@
 # 🎨 PowerShell Profile (Pretty PowerShell)
 
+[![smithery badge](https://smithery.ai/badge/@karleeov/karleeov-powershell-profile)](https://smithery.ai/server/@karleeov/karleeov-powershell-profile)
+
 A stylish and functional PowerShell profile that looks and feels almost as good as a Linux terminal.
 
 ## ⚡ One Line Install (Elevated PowerShell Recommended)
 
+### Installing via Smithery
+
+To install Pretty PowerShell for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@karleeov/karleeov-powershell-profile):
+
+```bash
+npx -y @smithery/cli install @karleeov/karleeov-powershell-profile --client claude
+```
+
+### Installing Manually
 Execute the following command in an elevated PowerShell window to install the PowerShell profile:
 
 ```
